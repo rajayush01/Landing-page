@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+For setting up and running project from scratch
 
-## Getting Started
+Step 1- Download the zip file of the project and extract it somewhere in your system
 
-First, run the development server:
+Step 2- Open the extracted file in VS Code
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Step 3- Now open the terminal and run "npm install"(This will install all the dependecies)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Step 4- After that run "npm run dev" to run it on you local host
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Figma design link used for reference:-https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?m=dev&t=PLXG0jPLbAEoyUwT-1
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Screenshots of the website:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot 2024-06-02 131715](https://github.com/rajayush01/Landing-page/assets/119657235/88f0a060-e73d-4eda-b3a2-afedf0c66e47)
+![Screenshot 2024-06-02 141842](https://github.com/rajayush01/Landing-page/assets/119657235/7a646003-dd46-46a7-9b5e-46bb17ab2380)
+![Screenshot 2024-06-02 141852](https://github.com/rajayush01/Landing-page/assets/119657235/9641ceed-9c8b-4a77-b993-9395d007ae51)
+![Screenshot 2024-06-02 141914](https://github.com/rajayush01/Landing-page/assets/119657235/3bd2fb73-06e4-4334-81f8-202b29fa8a55)
+![Screenshot 2024-06-02 141922](https://github.com/rajayush01/Landing-page/assets/119657235/c089c647-1344-4d92-b1da-4d62478dc045)
+![Screenshot 2024-06-02 141932](https://github.com/rajayush01/Landing-page/assets/119657235/8fb2cc1f-16f5-4939-a1a3-56ec4a8e71ec)
+![Screenshot 2024-06-02 141942](https://github.com/rajayush01/Landing-page/assets/119657235/e3380edc-fbf0-4452-b180-bfbb1812e106)
+![Screenshot 2024-06-02 141901](https://github.com/rajayush01/Landing-page/assets/119657235/9e851d5f-13e5-49d6-9c2c-2435f7330f79)
